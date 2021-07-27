@@ -1,3 +1,4 @@
-# This is a clonning practice!
+# This is a cloning practice!
 
+Landing page clone practice
 
